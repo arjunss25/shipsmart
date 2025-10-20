@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         {/* Logo/Brand Name */}
         <div className="text-center mb-8">
-          <h2 className="text-[10rem] text-[#EAEAEA]">
+          <h2 className="text-[10rem] text-gray-200">
             ShipSmart Ai
           </h2>
         </div>
