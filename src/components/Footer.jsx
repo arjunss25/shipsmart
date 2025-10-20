@@ -21,7 +21,7 @@ const Footer = () => {
 
           {/* Center Section - Copyright */}
           <div className="text-red-600 text-sm font-medium order-2 sm:order-2 text-center">
-            Copyright © 2025 Ahimsa Global. All rights reserved.
+            Copyright © 2025 shipsmart.ai. All rights reserved.
           </div>
 
           {/* Right Section - Social Media Icons */}
